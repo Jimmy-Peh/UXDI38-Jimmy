@@ -1,0 +1,11 @@
+body {
+  background-color: lightblue;
+  background-image: url("../Pictures/fireworks.jpg");
+  background-size: cover;
+}
+
+h2 {
+  color: red;
+  font-size: 24px;
+  text-align: center;
+}
