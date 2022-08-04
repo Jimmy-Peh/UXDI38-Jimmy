@@ -1,6 +1,6 @@
 body {
   background-color: lightblue;
-  background-image: url("../Pictures/fireworks.jpg");
+  background-image: url("./Pictures/fireworks.jpg");
   background-size: cover;
 }
 
